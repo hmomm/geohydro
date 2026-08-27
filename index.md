@@ -3,7 +3,6 @@ layout: default
 title: Geospatial and Hydrodynamics Research Group
 ---
 
-<center>
 
 ![GeoHydro logo](./pic/Logo2.png)
 
@@ -11,5 +10,4 @@ title: Geospatial and Hydrodynamics Research Group
 
 Coming soon.
 
-</center>
 
