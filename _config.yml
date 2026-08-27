@@ -1,0 +1,4 @@
+title: Geospatial and Hydrodynamics Research Group
+theme: minima
+kramdown:
+  parse_block_html: true
